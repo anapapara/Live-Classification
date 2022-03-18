@@ -1,0 +1,11 @@
+# ninja log v5
+2	888	6504799149722436	LiveClassification_autogen/timestamp	39b3385b66c265b1
+902	2082	6504799164673563	CMakeFiles/LiveClassification.dir/lodepng.cpp.obj	e4603a733130cf92
+935	2382	6504799167813815	CMakeFiles/LiveClassification.dir/ThreadPool.cpp.obj	7cb4bad5fdfe825f
+908	2922	6504799173034196	CMakeFiles/LiveClassification.dir/NeuralNetwork.cpp.obj	f9304a545446d6d6
+928	3279	6504799176804461	CMakeFiles/LiveClassification.dir/ConsoleApplication1.cpp.obj	3ceced11af0ce529
+921	5406	6504799198051321	CMakeFiles/LiveClassification.dir/NeuralNetworkImport.cpp.obj	5f5ebeee9f7cc739
+896	6220	6504799206201915	CMakeFiles/LiveClassification.dir/main.cpp.obj	65a1a4ad2bf06ebe
+889	6244	6504799206461929	CMakeFiles/LiveClassification.dir/LiveClassification_autogen/mocs_compilation.cpp.obj	19b361ddfb0ea2dd
+915	6575	6504799209752171	CMakeFiles/LiveClassification.dir/mainwindow.cpp.obj	488ebe428df3d781
+6576	7335	6504799217132739	LiveClassification.exe	28b935acfe64b26f

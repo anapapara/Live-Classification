@@ -1,0 +1,5 @@
+C:/Users/anama/OneDrive/Desktop/SiemensSS/LiveClassification/out/build/x64-Debug/CMakeFiles/LiveClassification.dir
+C:/Users/anama/OneDrive/Desktop/SiemensSS/LiveClassification/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/anama/OneDrive/Desktop/SiemensSS/LiveClassification/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/anama/OneDrive/Desktop/SiemensSS/LiveClassification/out/build/x64-Debug/CMakeFiles/LiveClassification_autogen_timestamp_deps.dir
+C:/Users/anama/OneDrive/Desktop/SiemensSS/LiveClassification/out/build/x64-Debug/CMakeFiles/LiveClassification_autogen.dir

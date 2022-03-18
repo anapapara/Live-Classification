@@ -1,0 +1,77 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LiveClassification",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LiveClassification::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LiveClassification-Debug-708054f5e702da46ad49.json",
+					"name" : "LiveClassification",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LiveClassification_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LiveClassification_autogen-Debug-87e0aad01d305765e4dc.json",
+					"name" : "LiveClassification_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LiveClassification_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LiveClassification_autogen_timestamp_deps-Debug-46f9c75037220d9c4382.json",
+					"name" : "LiveClassification_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/anama/OneDrive/Desktop/SiemensSS/LiveClassification/out/build/x64-Debug",
+		"source" : "C:/Users/anama/OneDrive/Desktop/SiemensSS/LiveClassification"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
